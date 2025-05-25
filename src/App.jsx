@@ -18,7 +18,7 @@ function App() {
   });
 
   const API_URL = "https://api.openweathermap.org/data/2.5/weather";
-  const API_KEY = "1634bb5372e4c0a612fe017f4cd3c347";
+  const API_KEY = "Enter_your_API_key";
 
   const toDate = () => {
     const months = [
